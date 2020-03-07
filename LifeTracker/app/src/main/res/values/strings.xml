@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LifeTracker</string>
+    <string name="time_lists">Time lists</string>
+    <string name="add_category">Add Time Category</string>
+    <string name="time_type">Time Type</string>
+    <string name="time_value">Time Value (Minutes)</string>
+    <string name="add_time">Add Time</string>
+    <string name="back">Back</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="temp">Temp</string>
+    <string name="add_satisfaction">Add Satisfaction</string>
+    <string name="satisfaction">Satisfaction</string>
+    <string name="load_tracked_times">Save Tracked Times</string>
+</resources>
